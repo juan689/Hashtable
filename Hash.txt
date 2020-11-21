@@ -1,0 +1,9 @@
+8
+A,colombia,1
+B,ecuador,2
+C,colombia,1
+D,ecuador,2
+E,argentina,3
+F,brasil,2
+G,brasil,4
+H,argentina,6
